@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaon2007
 - 👀 I’m interested in game development, web development, software development
-- 🌱 I’m currently learning python, unreal
+- 🌱 I’m currently learning python, godot
 - 💞️ I’m looking to collaborate on ISRO
 - 📫 How to reach me ...
 
